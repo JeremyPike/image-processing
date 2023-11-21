@@ -552,7 +552,7 @@ A larger number in a channel means that more of that primary colour is present.
 Suppose that we represent colours as triples (r, g, b), where each of r, g,
 and b is an integer in [0, 255].
 What colours are represented by each of these triples?
-(Try to answer these questions without reading further.)
+Try to answer these questions without reading further.
 
 1. (255, 0, 0)
 2. (0, 255, 0)
